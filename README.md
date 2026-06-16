@@ -6,4 +6,4 @@
 - 🌱 J'explore : red teaming LLM (Garak, promptfoo), détection sur logs (ELK)
 - 🧰 Stack : Python, C++, pentest, CTF, SIEM
 
-📫 [profil bug bounty : https://hackerone.com/aurr?type=user
+📫 https://hackerone.com/aurr?type=user
